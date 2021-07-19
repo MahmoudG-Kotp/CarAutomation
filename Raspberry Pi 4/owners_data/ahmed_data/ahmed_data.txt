@@ -1,0 +1,6 @@
+.Owner Name:
+ahmed
+.Samples Count:
+4
+.Shirt Color:
+Purple
