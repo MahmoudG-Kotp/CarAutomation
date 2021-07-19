@@ -6,4 +6,4 @@ Car Automation project aims to detect car owner's body or face and direct the ca
 . ATmega32 Dir >> Contains files that burned into ATmega32 board
 
 . Documents Dir >> Includes Main Points, Book and Presentation of this project
-    . Flowcharts Dir >> Contains Embeddded System, Computer Vision and Integration
+            . Flowcharts Dir >> Contains Embeddded System, Computer Vision and Integration
