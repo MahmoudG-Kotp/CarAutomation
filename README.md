@@ -7,4 +7,4 @@ Car Automation project aims to detect car owner's body or face and direct the ca
 
 . Documents Dir >> Includes Main Points, Book and Presentation of this project
 
-            . Flowcharts Dir >> Contains Embeddded System, Computer Vision and Integration
+   . Flowcharts Dir >> Contains Embeddded System, Computer Vision and Integration
